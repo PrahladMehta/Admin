@@ -1,0 +1,15 @@
+
+:root {
+  --primary-color: #1a2a3a;
+  --secondary-color: #2c3e50;
+  --accent-color: #3498db;
+  --text-color: #ecf0f1;
+  --bg-color: #0f1a2a;
+  --card-bg-color: #1c2b3a;
+}
+
+*{
+  margin: 0px;
+  padding:0px;
+  box-sizing: border-box;
+}
